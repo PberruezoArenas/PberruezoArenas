@@ -30,7 +30,8 @@ Advanced React Patterns: For building even more dynamic UIs.
 Database Optimization: To enhance performance and scalability.
 Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.<br/><br/>
 ✉️ Let's Connect!<br/>
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+<a href="https://github.com/PberruezoArenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Github</a> 
+<a href="www.linkedin.com/in/pedroberruezoarenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Linkdin</a> 
 <!---
 PberruezoArenas/PberruezoArenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
