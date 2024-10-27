@@ -17,7 +17,9 @@ Databases
 🛠️ Projects
 Here are a few projects that showcase my work and skills:
 
-🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://pbadeveloper.vercel.app))
+🌐 <a href="https://tuusuario.github.io" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">
+  Visit my Portfolio
+</a>
 : A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.<br/>
 📊 Data Dashboard: An interactive dashboard for data visualization using Flask, PostgreSQL, and JavaScript, displaying real-time data and insights.<br/>
 💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.<br/>
