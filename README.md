@@ -17,9 +17,9 @@ Databases
 🛠️ Projects
 Here are a few projects that showcase my work and skills:
 
-🌐 MyPortfolio: A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.
-📊 Data Dashboard: An interactive dashboard for data visualization using Flask, PostgreSQL, and JavaScript, displaying real-time data and insights.
-💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.
+🌐 MyPortfolio: A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.<br/>
+📊 Data Dashboard: An interactive dashboard for data visualization using Flask, PostgreSQL, and JavaScript, displaying real-time data and insights.<br/>
+💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.<br/>
 🌱 Currently Learning
 I'm exploring:
 
