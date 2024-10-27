@@ -4,7 +4,7 @@
 🧑‍💻 About Me
 I'm a passionate developer focused on building seamless, efficient, and user-centered applications. With a strong foundation in front-end and back-end technologies, I love tackling complex problems, enhancing user experiences, and keeping up with the latest in web development.
 
-🔧 Technologies & Skills<br/>
+🔧 Technologies & Skills<br/><br/>
 Frontend
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /> <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
 
@@ -17,7 +17,8 @@ Databases
 🛠️ Projects
 Here are a few projects that showcase my work and skills:
 
-🌐 MyPortfolio: A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.<br/>
+🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://pbadeveloper.vercel.app))
+: A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.<br/>
 📊 Data Dashboard: An interactive dashboard for data visualization using Flask, PostgreSQL, and JavaScript, displaying real-time data and insights.<br/>
 💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.<br/>
 🌱 Currently Learning
