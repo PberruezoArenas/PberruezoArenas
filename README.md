@@ -28,8 +28,8 @@ I'm exploring:
 
 Advanced React Patterns: For building even more dynamic UIs.
 Database Optimization: To enhance performance and scalability.
-Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.
-✉️ Let's Connect!
+Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.<br/><br/>
+✉️ Let's Connect!<br/>
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 <!---
 PberruezoArenas/PberruezoArenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
