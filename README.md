@@ -24,7 +24,7 @@ Here are a few projects that showcase my work and skills:
 📊 <a href="https://github.com/PberruezoArenas/My-Mood-Final-Project" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">
   My Mood
 </a>: An emotional support community focused on mental health that connects users and therapists and insights.<br/>
-💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.<br/>
+
 🌱 Currently Learning
 I'm exploring:
 
