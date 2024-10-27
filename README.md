@@ -21,7 +21,9 @@ Here are a few projects that showcase my work and skills:
   Visit my Portfolio
 </a>
 : A personal portfolio site built with React and Vite to showcase my projects, skills, and contact information.<br/>
-📊 Data Dashboard: An interactive dashboard for data visualization using Flask, PostgreSQL, and JavaScript, displaying real-time data and insights.<br/>
+📊 <a href="https://github.com/PberruezoArenas/My-Mood-Final-Project" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">
+  My Mood
+</a>: An emotional support community focused on mental health that connects users and therapists and insights.<br/>
 💼 Task Manager App: A task management app that allows users to track and organize their tasks. Built with Flask, React, and MySQL for full CRUD functionality.<br/>
 🌱 Currently Learning
 I'm exploring:
