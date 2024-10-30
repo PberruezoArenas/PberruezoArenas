@@ -39,7 +39,7 @@ Database Optimization: To enhance performance and scalability.
 Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.<br/><br/>
 ✉️ Let's Connect!<br/>
 <a href="https://github.com/PberruezoArenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Github</a> 
-<a href="www.linkedin.com/in/pedroberruezoarenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Linkdin</a> 
+<a href="https://www.linkedin.com/in/pedroberruezoarenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Linkdin</a> 
 <!---
 PberruezoArenas/PberruezoArenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
