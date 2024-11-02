@@ -1,5 +1,5 @@
 👋 Hello, World! I’m Pedro Berruezo Arenas
-🌐 Front-End Developer | 💡 Tech Enthusiast | 🎨 UI/UX Explorer
+🌐 Front-End Developer JR | 💡 Tech Enthusiast | 🎨 UI/UX Explorer
 
 🧑‍💻 About Me
 I'm a passionate developer focused on building seamless, efficient, and user-centered applications. With a strong foundation in front-end and back-end technologies, I love tackling complex problems, enhancing user experiences, and keeping up with the latest in web development.
