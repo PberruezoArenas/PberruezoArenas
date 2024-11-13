@@ -2,8 +2,7 @@
 🌐 Front-End Developer JR | 💡 Tech Enthusiast | 🎨 UI/UX Explorer
 
 🧑‍💻 About Me
-I'm a passionate developer focused on building seamless, efficient, and user-centered applications. With a strong foundation in front-end and back-end technologies, I love tackling complex problems, enhancing user experiences, and keeping up with the latest in web development.
-
+I’m a passionate frontend developer focused on building seamless, efficient, and user-centered applications. With a strong foundation in front-end technologies, I love crafting interactive user interfaces, enhancing user experiences, and staying up-to-date with the latest in web development. Additionally, I bring knowledge of backend development with Python and Flask, along with experience in databases like MySQL and PostgreSQL. This full-stack understanding allows me to collaborate effectively across the entire development lifecycle, ensuring that applications are not only visually engaging but also robust and well-integrated. Driven by curiosity and a commitment to quality, I strive to create impactful solutions with clean, efficient code.
 🔧 Technologies & Skills<br/><br/>
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
