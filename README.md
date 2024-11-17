@@ -35,9 +35,9 @@ Here are a few projects that showcase my work and skills:
 🌱 Currently Learning
 I'm exploring:
 
-Advanced React Patterns: For building even more dynamic UIs.
-Database Optimization: To enhance performance and scalability.
-Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.
+<br/>Advanced React Patterns: For building even more dynamic UIs.
+<br/>Database Optimization: To enhance performance and scalability.
+<br/>Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.
  
 <br/><br/>
 ✉️ Let's Connect!<br/>
