@@ -39,7 +39,7 @@ I'm exploring:
 <br/>Database Optimization: To enhance performance and scalability.
 <br/>Deployment & DevOps: To streamline the deployment process and manage larger applications efficiently.
  
-<br/><br/>
+<br/>
 ✉️ Let's Connect!<br/>
 <a href="https://github.com/PberruezoArenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Github</a> 
 <a href="https://www.linkedin.com/in/pedroberruezoarenas" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Linkdin</a> 
